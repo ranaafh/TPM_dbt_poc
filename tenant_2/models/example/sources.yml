@@ -2,6 +2,6 @@ version: 2
 
 sources:
  - name: sampled_data
-   schema: dbt_rhashemi
+   schema: tenant_B
    tables:
      - name: sample_table_final
