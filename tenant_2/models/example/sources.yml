@@ -2,6 +2,6 @@ version: 2
 
 sources:
  - name: sampled_data
-   schema: tenant_B
+   schema: tenant_2
    tables:
      - name: sample_table_final
