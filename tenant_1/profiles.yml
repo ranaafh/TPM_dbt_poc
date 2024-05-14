@@ -1,9 +1,9 @@
-tenant_A:
+tenant_1:
   target: dev
   outputs:
     dev:
       type: bigquery
       project: prj-s-telus-tpm-data-fcfc
-      dataset: tenant_A
+      dataset: tenant_1
       method: oauth
       threads: 4
