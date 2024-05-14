@@ -1,4 +1,4 @@
-tenant_B:
+tenant_2:
   target: dev
   outputs:
     dev:
